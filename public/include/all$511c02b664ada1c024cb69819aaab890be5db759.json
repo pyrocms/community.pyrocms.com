@@ -1,0 +1,86 @@
+{
+    "packages": {
+        "emange/list-field_type": {
+            "1.0": {
+                "name": "emange/list-field_type",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/edsters/list-field_type.git",
+                    "reference": "1f76a2cddb9cbf3c8c7824f4a1295e16254dbf71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/edsters/list-field_type/get/1f76a2cddb9cbf3c8c7824f4a1295e16254dbf71.zip",
+                    "reference": "1f76a2cddb9cbf3c8c7824f4a1295e16254dbf71",
+                    "shasum": ""
+                },
+                "time": "2016-11-04T14:29:59+00:00",
+                "type": "streams-addon",
+                "autoload": {
+                    "psr-4": {
+                        "Emange\\ListFieldType\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Emange.",
+                        "email": "edi@mange.biz",
+                        "homepage": "http://edi.mange.biz/",
+                        "role": "Owner"
+                    }
+                ],
+                "homepage": "http://pyrocms.com/",
+                "support": {
+                    "email": "edi@mange.biz",
+                    "source": "https://bitbucket.org/edsters/list-field_type/src/1f76a2cddb9cbf3c8c7824f4a1295e16254dbf71/?at=1.0",
+                    "issues": "https://bitbucket.org/edsters/list-field_type/issues"
+                }
+            },
+            "dev-master": {
+                "name": "emange/list-field_type",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/edsters/list-field_type.git",
+                    "reference": "0325573020eec4705790b8cd473f7b1a209ea892"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/edsters/list-field_type/get/0325573020eec4705790b8cd473f7b1a209ea892.zip",
+                    "reference": "0325573020eec4705790b8cd473f7b1a209ea892",
+                    "shasum": ""
+                },
+                "time": "2017-02-14T19:20:41+00:00",
+                "type": "streams-addon",
+                "autoload": {
+                    "psr-4": {
+                        "Emange\\ListFieldType\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Emange.",
+                        "email": "edi@mange.biz",
+                        "homepage": "http://edi.mange.biz/",
+                        "role": "Owner"
+                    }
+                ],
+                "homepage": "http://pyrocms.com/",
+                "support": {
+                    "email": "edi@mange.biz",
+                    "source": "https://bitbucket.org/edsters/list-field_type/src/0325573020eec4705790b8cd473f7b1a209ea892/?at=master",
+                    "issues": "https://bitbucket.org/edsters/list-field_type/issues"
+                }
+            }
+        }
+    }
+}
