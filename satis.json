@@ -2,8 +2,10 @@
   "name": "Community contributed addons for PyroCMS.",
   "homepage": "https://packages.pyrocms.com",
   "repositories": [
-    { "type": "vcs", "url": "https://bitbucket.org/edsters/list-field_type" }
+    { "type": "vcs", "url": "https://bitbucket.org/edsters/list-field_type" },
+    { "type": "vcs", "url": "https://bitbucket.org/edsters/spaces_adapter-extension" }
   ],
   "output-dir": "public",
   "require-all": true
 }
+
