@@ -5,7 +5,7 @@
     { "type": "vcs", "url": "https://bitbucket.org/edsters/list-field_type" },
     { "type": "vcs", "url": "https://bitbucket.org/edsters/spaces_adapter-extension" },
     { "type": "vcs", "url": "https://github.com/oimken/iconpicker-field_type" },
-    { "type": "vcs", "url": "https://github.com/Pixney/hjortron-theme" },
+    { "type": "vcs", "url": "https://github.com/Pixney/hjortron-theme" }
   ],
   "output-dir": "public",
   "require-all": true
