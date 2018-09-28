@@ -6,9 +6,9 @@
     { "type": "vcs", "url": "https://bitbucket.org/edsters/spaces_adapter-extension" },
     { "type": "vcs", "url": "https://github.com/oimken/iconpicker-field_type" },
     { "type": "vcs", "url": "https://github.com/Pixney/hjortron-theme" },
-    { "type": "vcs", "url": "https://gitlab.com/redtally/signature-field_type" }
+    { "type": "vcs", "url": "https://gitlab.com/redtally/signature-field_type" },
+    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/portfolio-module" }
   ],
   "output-dir": "public",
   "require-all": true
 }
-
