@@ -8,7 +8,8 @@
     { "type": "vcs", "url": "https://github.com/Pixney/hjortron-theme" },
     { "type": "vcs", "url": "https://gitlab.com/redtally/signature-field_type" },
     { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/portfolio-module" },
-    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/localization-extension" }
+    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/localization-extension" },
+    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/joomlamigrator-module" }
   ],
   "output-dir": "public",
   "require-all": true
