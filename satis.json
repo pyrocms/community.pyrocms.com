@@ -9,7 +9,8 @@
     { "type": "vcs", "url": "https://gitlab.com/redtally/signature-field_type" },
     { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/portfolio-module" },
     { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/localization-extension" },
-    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/joomlamigrator-module" }
+    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/joomlamigrator-module" },
+    { "type": "vcs", "url": "https://gitlab.com/newebtime/pyrocms/agency-theme" }
   ],
   "output-dir": "public",
   "require-all": true
